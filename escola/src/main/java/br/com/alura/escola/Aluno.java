@@ -32,5 +32,5 @@ public class Aluno {
         return email;
     }
 
-  
+
 }
