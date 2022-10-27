@@ -1,4 +1,4 @@
-import br.com.alura.escola.Telefone;
+import br.com.alura.escola.aluno.Telefone;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
