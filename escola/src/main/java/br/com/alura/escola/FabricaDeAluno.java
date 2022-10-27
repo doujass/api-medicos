@@ -1,7 +1,5 @@
 package br.com.alura.escola;
 
-import java.util.SplittableRandom;
-
 public class FabricaDeAluno {
 
     private Aluno aluno;
