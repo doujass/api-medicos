@@ -1,4 +1,6 @@
-import br.com.alura.escola.aluno.CPF;
+package dominio.aluno;
+
+import br.com.alura.escola.dominio.aluno.CPF;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
